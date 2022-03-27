@@ -74,7 +74,7 @@
         "UPSTREAM_REPO": {
             "description": "اتركه كما هوا",
             "required": true,
-            "value": "https://github.com/Ammat5002/music_player1"
+            "value": "https://github.com/Ammar5002/music_player1"
         }
     },
     "addons": [],
